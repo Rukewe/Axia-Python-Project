@@ -27,6 +27,12 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 
  # CAR INVENTORY ANALYSIS PROJECT
 
+ ## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
+
  ## Project Overview 
 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
@@ -128,9 +134,3 @@ We recommend the following:
 A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
 
 While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.”
-
-## Table of Content
-
-- [Project Overview](#project-overview)
-- [Results](#results)
-- [Recommendation](#recommendation)
